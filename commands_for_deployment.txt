@@ -1,6 +1,0 @@
-ssh -i rateitup.pem ubuntu@44.203.151.55
-cd rateitup/
-source venv/bin/activate
-
-pkill gunicorn
-gunicorn app:app
