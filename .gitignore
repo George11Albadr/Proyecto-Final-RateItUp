@@ -1,0 +1,6 @@
+venv/
+temp/
+.DS_Store
+__pycache__/
+flask_session/
+rateitup.pem
